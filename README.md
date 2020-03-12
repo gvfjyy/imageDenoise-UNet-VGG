@@ -15,7 +15,7 @@ Pytorch 1.2.0 <br>
 ## 实验结果：
 数据集：甲骨拓片数据集。 <br>
 对比网络：CycleGAN <br>
-UNet-VGG的效果优于CycleGAN,可以看出CycleGAN对于字体有弱化现象，且对于细节的处理没有UNetVGG好。 <br>
+UNet-VGG的效果优于CycleGAN，可以看出CycleGAN对于字体有弱化现象，且对于细节的处理没有UNet-VGG好。 <br>
 ### CycleGAN处理效果
 ![image](https://github.com/libai-github/imageDenoiseUsingUNet-VGG/blob/master/resultOfCycleGAN.png)
 ### UNet-VGG处理效果
