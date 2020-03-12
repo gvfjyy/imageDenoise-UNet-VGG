@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+net/__pycache__/
+utils/__pycache__/
