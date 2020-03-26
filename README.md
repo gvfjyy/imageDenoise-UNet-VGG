@@ -1,8 +1,7 @@
 # imageDenoiseUsingUNet-VGG
 通用图像去噪网络，以UNet为基本框架，VGG16的卷积层作为编码器
 
-<br>
-<br>
+
 ## 环境：
 Python 3.5.3 <br>
 Pytorch 1.2.0 <br>
