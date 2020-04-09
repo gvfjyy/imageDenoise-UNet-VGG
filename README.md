@@ -1,5 +1,5 @@
 # imageDenoiseUsingUNet-VGG
-通用图像去噪网络，以UNet为基本框架，编码器基于VGG16
+拓片图像去噪网络，以UNet为基本框架，编码器基于VGG16
 
 
 ## 环境：
